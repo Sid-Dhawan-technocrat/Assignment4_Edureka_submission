@@ -1,0 +1,22 @@
+Output for 4(a)Calculate the average rating for all the restaurants
+Object { restaurant: "KFC", avgRating: 4 }
+solve.js:41:13
+Object { restaurant: "Burger King", avgRating: 4 }
+solve.js:41:13
+Object { restaurant: "Domino", avgRating: 1.5 }
+solve.js:41:13
+Object { restaurant: "Subway", avgRating: 3.5 }
+solve.js:41:13
+Object { restaurant: "Pizza Hut", avgRating: 5 }
+
+
+Output for 4(b)List all the restaurants with average rating greater than or equal to 4
+Array(3) [ {…}, {…}, {…} ]
+​
+0: Object { restaurant: "KFC", avgRating: 4 }
+​
+1: Object { restaurant: "Burger King", avgRating: 4 }
+​
+2: Object { restaurant: "Pizza Hut", avgRating: 5 }
+​
+length: 3
